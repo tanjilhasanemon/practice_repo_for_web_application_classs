@@ -8,7 +8,7 @@
 [![Practice](https://img.shields.io/badge/Purpose-Web%20App%20Class%20Practice-0A66C2?style=for-the-badge)](https://github.com/tanjilhasanemon/practice_repo_for_web_application_classs)
 [![License](https://img.shields.io/badge/Use-Educational-success?style=for-the-badge)](#license)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+your+Web+Application+Practice+Repository!;Practice+Frontend+%2B+Backend+Development;Build+Full-Stack+Project+Confidence+Step+by+Step" alt="Animated introduction: Welcome to your Web Application Practice Repository, Practice Frontend and Backend Development, Build Full-Stack Project Confidence Step by Step" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Welcome+to+your+Web+Application+Practice+Repository!;Practice+Frontend+%2B+Backend+Development;Build+Full-Stack+Project+Confidence+Step+by+Step" alt="Animated introduction: Welcome to my Web Application Practice Repository, Practice Frontend and Backend Development, Build Full-Stack Project Confidence Step by Step" />
 
 **A practical learning sandbox for web application development coursework and class exercises.**
 
